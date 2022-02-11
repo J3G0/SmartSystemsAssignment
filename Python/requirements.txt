@@ -38,7 +38,7 @@ ipython-sql=0.3.9=py36_1000
 ipython_genutils=0.2.0=py36_0
 ipywidgets=7.4.2=py_0
 jedi=0.12.1=py36_0
-jinja2=2.10.1=py36_0
+jinja2=2.10.1
 jpeg=9b=h024ee3a_2
 jsonschema=2.6.0=py36_0
 jupyter=1.0.0=py36_7
@@ -69,7 +69,7 @@ nbformat=4.4.0=py36_0
 ncurses=6.1=hf484d3e_0
 nltk=3.6.6
 notebook=5.7.11
-numpy=1.15.2=py36h1d66e8a_1
+numpy=1.21
 numpy-base=1.15.2=py36h81de0dd_1
 openssl=1.0.2p=h470a237_1
 pandas=0.23.4=py36h04863e7_0
@@ -90,7 +90,7 @@ ptyprocess=0.6.0=py36_0
 pyasn1=0.4.4=py36h28b3542_0
 pyasn1-modules=0.0.5=py36_0
 pycparser=2.19=py36_0
-pygments=2.2.0=py36_0
+pygments=2.7.4
 pyopenssl=18.0.0=py36_0
 pyparsing=2.2.1=py36_0
 pyqt=5.9.2=py36h05f1152_2
@@ -123,7 +123,7 @@ tk=8.6.8=hbc83047_0
 tornado=5.1.1=py36h7b6447c_0
 traitlets=4.3.2=py36_0
 Twisted=22.1
-urllib3=1.25.9
+urllib3=1.26.5
 wcwidth=0.1.7=py36_0
 webencodings=0.5.1=py36_1
 wheel=0.32.0=py36_0
@@ -131,5 +131,5 @@ widgetsnbextension=3.4.2=py36_0
 xz=5.2.4=h14c3975_4
 zeromq=4.2.5=hf484d3e_1
 zlib=1.2.11=ha838bed_2
-zope=4.6.1
+zope=4.6.3
 zope.interface=4.5.0=py36h14c3975_0
