@@ -33,7 +33,7 @@ idna=2.7=py36_0
 incremental=17.5.0=py36_0
 intel-openmp=2019.0=118
 ipykernel=5.0.0=py36h39e3cac_0
-ipython=7.0.1=py36h39e3cac_0
+ipython=7.16.3
 ipython-sql=0.3.9=py36_1000
 ipython_genutils=0.2.0=py36_0
 ipywidgets=7.4.2=py_0
@@ -67,8 +67,8 @@ mkl_random=1.0.1=py36h4414c95_1
 nbconvert=5.3.1=py36_0
 nbformat=4.4.0=py36_0
 ncurses=6.1=hf484d3e_0
-nltk=3.4.5=py36_0
-notebook=5.7.8=py36_0
+nltk=3.6.4
+notebook=5.7.11
 numpy=1.15.2=py36h1d66e8a_1
 numpy-base=1.15.2=py36h81de0dd_1
 openssl=1.0.2p=h470a237_1
@@ -80,7 +80,7 @@ patsy=0.5.0=py36_0
 pcre=8.42=h439df22_0
 pexpect=4.6.0=py36_0
 pickleshare=0.7.5=py36_0
-pip=10.0.1=py36_0
+pip=21.1
 plotly=2.7.0=py37_1
 prettytable=0.7.2=py_2
 prometheus_client=0.3.1=py36h28b3542_0
@@ -122,8 +122,8 @@ testpath=0.4.2=py36_0
 tk=8.6.8=hbc83047_0
 tornado=5.1.1=py36h7b6447c_0
 traitlets=4.3.2=py36_0
-Twisted=20.3.0
-urllib3=1.24.2=py36_0
+Twisted=22.1
+urllib3=1.25.9
 wcwidth=0.1.7=py36_0
 webencodings=0.5.1=py36_1
 wheel=0.32.0=py36_0
@@ -131,5 +131,5 @@ widgetsnbextension=3.4.2=py36_0
 xz=5.2.4=h14c3975_4
 zeromq=4.2.5=hf484d3e_1
 zlib=1.2.11=ha838bed_2
-zope=1.0=py36_1
+zope=4.6.1
 zope.interface=4.5.0=py36h14c3975_0
