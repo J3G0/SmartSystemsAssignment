@@ -13,7 +13,7 @@ certifi=2018.10.15=py36_1000
 cffi=1.11.5=py36he75722e_1
 chardet=3.0.4=py36_1
 constantly=15.1.0=py36h28b3542_0
-cryptography=3.2
+cryptography=3.3.2
 cufflinks=2.2.1=py36_2
 cycler=0.10.0=py36_0
 dbus=1.13.2=h714fa37_1
@@ -68,7 +68,7 @@ nbconvert=5.3.1=py36_0
 nbformat=4.4.0=py36_0
 ncurses=6.1=hf484d3e_0
 nltk=3.6.6
-notebook=6.1.5
+notebook=6.4.1
 numpy=1.21
 numpy-base=1.15.2=py36h81de0dd_1
 openssl=1.0.2p=h470a237_1
