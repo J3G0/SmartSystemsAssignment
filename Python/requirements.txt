@@ -122,7 +122,7 @@ testpath=0.4.2=py36_0
 tk=8.6.8=hbc83047_0
 tornado=5.1.1=py36h7b6447c_0
 traitlets=4.3.2=py36_0
-Twisted=22.1
+Twisted=22.4.0rc1
 urllib3=1.26.5
 wcwidth=0.1.7=py36_0
 webencodings=0.5.1=py36_1
