@@ -64,7 +64,7 @@ mistune=2.0.3
 mkl=2019.0=118
 mkl_fft=1.0.6=py36h7dd41cf_0
 mkl_random=1.0.1=py36h4414c95_1
-nbconvert=6.3
+nbconvert=6.5.1
 nbformat=4.4.0=py36_0
 ncurses=6.1=hf484d3e_0
 nltk=3.6.6
