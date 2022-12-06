@@ -44,7 +44,7 @@ jsonschema=2.6.0=py36_0
 jupyter=1.0.0=py36_7
 jupyter_client=5.2.3=py36_0
 jupyter_console=5.2.0=py36_1
-jupyter_core=4.4.0=py36_0
+jupyter_core=4.11.2
 kiwisolver=1.0.1=py36hf484d3e_0
 krb5=1.16.1=hc83ff2d_6
 libedit=3.1.20170329=h6b74fdf_2
