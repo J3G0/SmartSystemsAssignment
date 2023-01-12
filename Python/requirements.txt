@@ -126,7 +126,7 @@ Twisted=22.4.0
 urllib3=1.26.5
 wcwidth=0.1.7=py36_0
 webencodings=0.5.1=py36_1
-wheel=0.32.0=py36_0
+wheel=0.38.1
 widgetsnbextension=3.4.2=py36_0
 xz=5.2.4=h14c3975_4
 zeromq=4.2.5=hf484d3e_1
